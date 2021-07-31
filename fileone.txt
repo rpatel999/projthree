@@ -3,4 +3,3 @@ Name: fileone.txt
 This is the first line in this file.
 This is the second line.
 This is the third line, added in branchonelocal.
-This is the fourth line.

@@ -4,3 +4,6 @@ This is the first line in this file.
 This is the second line, which was added in branch "branchone".
 This is the third line, which was added in branch "branchone".
 This is the fourth line, which was added in local branch "branchonelocal".
+This is the fifth line.
+This is the sixth line.
+
